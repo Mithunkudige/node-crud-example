@@ -1,4 +1,4 @@
-# node-crud-example
+# Node-CRUD-example
 CRUD Operation using Node JS, Express. 
 Endpoints 
 GET / 
